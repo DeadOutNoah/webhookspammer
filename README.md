@@ -1,2 +1,2 @@
 # Webhook Spammer
-Hi, this is noah here i coded all of this and yeah bye
+Put issues in the issues tab
